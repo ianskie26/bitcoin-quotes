@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/bitcoin-quotes/static/css/main.413109d7.css",
+    "main.js": "/bitcoin-quotes/static/js/main.27418731.js",
+    "static/js/787.d5a7750e.chunk.js": "/bitcoin-quotes/static/js/787.d5a7750e.chunk.js",
+    "index.html": "/bitcoin-quotes/index.html",
+    "main.413109d7.css.map": "/bitcoin-quotes/static/css/main.413109d7.css.map",
+    "main.27418731.js.map": "/bitcoin-quotes/static/js/main.27418731.js.map",
+    "787.d5a7750e.chunk.js.map": "/bitcoin-quotes/static/js/787.d5a7750e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.413109d7.css",
+    "static/js/main.27418731.js"
+  ]
+}
